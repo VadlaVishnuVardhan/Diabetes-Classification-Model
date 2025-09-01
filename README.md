@@ -14,7 +14,7 @@ This project predicts whether a person has diabetes or not using machine learnin
   - Diabetes Pedigree Function (DPF)  
   - Age  
 
-## ⚙ Project Workflow  
+##  Project Workflow  
 1. **Exploratory Data Analysis (EDA)**  
    - Visualized distributions and relationships among features.  
    - Checked correlations and missing values.  
